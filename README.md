@@ -1,6 +1,6 @@
 # DEMO LINK
 
-https://illustrious-monstera-da5f34.netlify.app/
+https://hreactjs-ecommerce.netlify.app/
 
 
 
